@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\HP USER\Documents\pythonProblem\problem"
+VIRTUAL_ENV="C:\Users\HP USER\Documents\Data Analyst\pythonProblem\problem"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
